@@ -1,0 +1,19 @@
+What is Array?
+
+Array is a collection of similar type of element in contigous memory location 
+
+Advantage 
+
+
+// intiliaze entire array with one Value  
+
+Question 1.  Swap Alternate elements of array
+Question 2.  Find Unique element in array                       --> Done
+Question 3.  Find duplicate in array                            --> Done
+Question 4.  Find Array Intersection from two arrays 
+Question 5.  Pair Sum                                           --> Done
+Question 6.  Triplet Sum 
+Question 7.  Sort 0'n and 1's
+Question 8.  Reverse Of Array                                   --> Done
+Question 9.  Sum of Array                                       --> Done
+Question 10. Sort the Array                                     --> Done
